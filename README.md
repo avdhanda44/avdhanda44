@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 			<li>💼:http://www.linkedin.com/in/anuradhanda</li>
 		</ul>
 	</li>
+	<li>⚡ Fun fact: I still watch cartoons</li>
 </ul>
 
