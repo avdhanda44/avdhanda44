@@ -5,9 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on MAchine Learning Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -16,8 +13,11 @@ Here are some ideas to get you started:
 -->
 <ul>
 	<li>👋 Hi, I’m @avdhanda44</li>
-	<li>👀 I work with data</li>
-	<li>🌱 I’m currently studying Computer Science</li>
+	<li>👀 I make my hand dirty with data mining </li>
+	<li>🌱 I’m currently studying Computer Science at New York reputed university NEW YORK TECH </li>
+	<li> 🔭 I’m currently working on vlogging in Python Language.</li>
+	<li>🌱 I’m currently learning NLP</li>
+	<li>👯 I’m looking to collaborate on Machine Learning Projects</li>
 	<li>📫 How to reach me:
 		<ul>
 			<li>📧: avdhanda4498@gmail.com</li>
