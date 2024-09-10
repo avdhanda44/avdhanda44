@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **avdhanda44/avdhanda44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,19 +9,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<ul>
-	<li>👋 Hi, I’m @avdhanda44</li>
-	<li>👀 I make my hand dirty with data mining </li>
-	<li>🌱 Presently, I'm immersed in the fascinating world of Computer Science, pursuing my studies at the prestigious NEW YORK TECH </li>
-	<li> 🔭 I’m currently working on vlogging in Python Language.</li>
-	<li>🌱 I’m currently learning NLP</li>
-	<li>👯 I'm eagerly seeking opportunities to collaborate on thrilling Machine Learning Projects that push boundaries.</li>
-	<li>📫 How to reach me:
-		<ul>
-			<li>📧: avdhanda4498@gmail.com</li>
-			<li>💼:http://www.linkedin.com/in/anuradhanda</li>
-		</ul>
-	</li>
-	<li>⚡  Here's a fun tidbit about me: Despite my tech-savvy persona, I still find immense joy in indulging in cartoons!</li>
-</ul>
-Let's embark on an exciting journey together! 🚀✨
+
+### Hi There. You definitely arrived on the right user 🥳 
+---
+
+```python
+class IOSDeveloper:
+	def __init__(self):
+		self.name = "Anuradha Kumari"
+		self.role = "Data Diver"
+		self.languageSpoken = ["en_US", "Hn_In"]
+
+	def sayHi(self):
+		print("Thanks for dropping by, hope you find some of my work interesting")
+```
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="240">
+<hr/>
+
+
+
+- 👋 <samp>Hi, I’m ANURADHA KUMARI and I love making my hands dirty with data mining.</samp>
+- 🧑🏻‍💻 <samp>I am graduated from New York Tech with major COMPUTER SCIENCE.</samp>
+- ✍️ <samp>I'm skilled in **Programming**, **Machine Learning** & **Algorithms**.</samp>
+- 🧑🏻‍💻 <samp>I’m currently learning **Deep Leaning** & **GitHub**.</samp>
+- 🔭 <samp>I’m currently working on **Personal Projects** & **Open Source**.</samp>
+- 👯 <samp>I’m looking to collaborate on thrilling Project of **Data Analysis** & **Machine Learning** that push boundaries.</samp>
+- 💬 <samp>Ask me about **"Data"**: The word "data" comes from the Latin word "datum," meaning "SOMETHING GIVEN".</samp>
+- ⚡ <samp>Despite my tech-savvy persona, I still find immense joy in indulging in cartoons!</samp>
+---
+
+
+
+
+
+
+<!--
+# Tech Stack 💻
+-->
+
+<div align="center">
+
+# Tech Stack 💻
+
+</div>
+
+<div align="center">
+
+
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+
+
+
+
+
+<!--
+# Socials 🌐
+-->
+
+# Socials 🌐
+
+</div>
+
+<samp> 📫 How to reach me:</samp>
+
+- <samp> 📧avdhanda4498@gmail.com</samp>
+- <samp> LinkedIn:http://www.linkedin.com/in/anuradhanda</samp>
+- <samp> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </samp>
+---
+
