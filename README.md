@@ -80,7 +80,6 @@ class IOSDeveloper:
 
 <samp> 📫 How to reach me:</samp>
 
-- <samp> 📧avdhanda4498@gmail.com</samp>
 - <samp> LinkedIn:http://www.linkedin.com/in/anuradhanda</samp>
 - <samp> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </samp>
 ---
