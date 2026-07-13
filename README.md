@@ -90,8 +90,6 @@ I'm passionate about building AI systems that bridge technology and real-world a
 
 💻 **GitHub:** https://github.com/avdhanda44
 
-📧 **Email:** avdhanda4498@gmail.com
-
 ---
 
 > *Building scalable AI systems that transform unstructured data into intelligent, actionable solutions.*
