@@ -1,37 +1,55 @@
-# Hi there, I'm Anuradha Kumari 👋
+# Hi, I'm Anuradha Kumari 👋
 
-## AI Engineer | Machine Learning | Generative AI | Computer Vision
+## Applied AI Engineer | LLMs | RAG | Document AI | FastAPI
 
-🎓 **M.S. in Computer Science** | New York Institute of Technology
+🎓 **M.S. in Computer Science** — New York Institute of Technology
 
-I'm an AI Engineer passionate about designing, building, and deploying production-grade AI solutions that solve real-world problems. My interests span Intelligent Document Processing (IDP), Large Language Models (LLMs), Computer Vision, and Retrieval-Augmented Generation (RAG), with a strong focus on developing scalable, end-to-end AI systems.
+I build practical AI applications that combine machine learning, LLMs, retrieval, document processing, APIs, and user-facing workflows. My current focus is on **Intelligent Document Processing (IDP), Retrieval-Augmented Generation (RAG), AI-assisted applications, and backend AI systems**.
 
----
+## 🚀 Featured Work
 
-## 🚀 Areas of Expertise
+### 📄 Intelligent Document Processing System
+End-to-end document AI pipeline for PDFs, images, and DOCX files with OCR, native PDF extraction, document classification, structured field mapping, validation, FastAPI, React, human review, and batch model evaluation.
 
-- Machine Learning & Deep Learning
-- Generative AI & Large Language Models (LLMs)
+**Repository:** [document-extraction-system](https://github.com/avdhanda44/document-extraction-system)
+
+### 🔍 LangChain RAG
+Hands-on RAG repository covering the progression from simple retrieval to conversational, agentic, hybrid, corrective, self, graph, and multimodal RAG patterns.
+
+**Repository:** [langchain-rag](https://github.com/avdhanda44/langchain-rag)
+
+### 🤖 LangChain Agent Foundations
+Practical work with LangChain and LangGraph covering models, prompts, tools, memory, MCP, runtime context, multi-agent workflows, RAG, SQL integration, and production-oriented agent patterns.
+
+**Repository:** [lca-lc-foundations](https://github.com/avdhanda44/lca-lc-foundations)
+
+### 🎯 AI Resume Parser & Job Matcher
+Resume/job-description matching system with document parsing, skill extraction, semantic similarity, explainable scoring, ATS-oriented analysis, FastAPI, Streamlit, and SQLite persistence.
+
+**Repository:** [ai-resume-job-matcher](https://github.com/avdhanda44/ai-resume-job-matcher)
+
+### 💼 AI Job Search & Application Assistant
+Job-search workflow application for resume parsing, job discovery, fit scoring, skill-gap analysis, tailored application materials, and application tracking.
+
+**Repository:** [ai-job-hunter-assistant](https://github.com/avdhanda44/ai-job-hunter-assistant)
+
+### 🎤 AI Interview Preparation Assistant
+Interview practice application for role-specific question generation, structured answer evaluation, feedback, scoring, session history, and progress tracking.
+
+**Repository:** [ai-interview-preparation-assistant](https://github.com/avdhanda44/ai-interview-preparation-assistant)
+
+## 🧠 Current Focus
+
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Computer Vision & OCR
+- LangChain & LangGraph
 - Intelligent Document Processing (IDP)
-- Natural Language Processing (NLP)
-- AI System Design & Deployment
-- FastAPI Microservices
-- Data Processing & Automation
-
----
-
-## 🌍 Current Projects
-
-- 🗺️ **GeoIndia AI** – Interactive AI-powered UPSC Geography Learning Platform
-- 📄 **Production-Grade Intelligent Document Processing (IDP)** Platform
-- 🤖 AI Resume & Job Matching Systems
-- 🔍 Retrieval-Augmented Generation (RAG) Applications
-- 👁️ Computer Vision & OCR Solutions
-- 🎓 Interactive AI Learning Applications
-
----
+- OCR and document extraction
+- AI agents and tool use
+- Natural Language Processing
+- Machine Learning
+- FastAPI backend development
+- AI application architecture
 
 ## 🛠️ Tech Stack
 
@@ -40,56 +58,49 @@ I'm an AI Engineer passionate about designing, building, and deploying productio
 - SQL
 - TypeScript
 
-### AI & Machine Learning
+### AI / ML
+- Scikit-learn
 - TensorFlow
 - PyTorch
-- Scikit-learn
 - Hugging Face Transformers
 - LangChain
+- LangGraph
 - OpenCV
 - EasyOCR
 - PaddleOCR
 - Tesseract
 
-### Backend & Frameworks
+### Backend / Applications
 - FastAPI
 - Streamlit
 - React
 - REST APIs
+- SQLAlchemy
+- Pydantic
 
-### Data & Databases
+### Data
 - Pandas
 - NumPy
+- SQLite
 - MySQL
 
-### Tools & DevOps
+### Tools
 - Git
 - GitHub
 - Docker
 - Postman
-- CI/CD
+- Jupyter
+
+## 📚 What I'm Building Toward
+
+My goal is to deepen my applied AI engineering skills by building systems that connect models to real data and real workflows — especially in **Document AI, RAG, LLM applications, AI automation, and backend AI services**.
+
+## 📫 Connect
+
+**LinkedIn:** https://www.linkedin.com/in/anuradhanda
+
+**GitHub:** https://github.com/avdhanda44
 
 ---
 
-## 🎯 Interests
-
-I'm passionate about building AI systems that bridge technology and real-world applications across:
-
-- Intelligent Automation
-- Education Technology
-- Document AI
-- Healthcare AI
-- Enterprise AI Solutions
-- Knowledge Retrieval Systems
-
----
-
-## 📫 Connect With Me
-
-💼 **LinkedIn:** https://www.linkedin.com/in/anuradhanda
-
-💻 **GitHub:** https://github.com/avdhanda44
-
----
-
-> *Building scalable AI systems that transform unstructured data into intelligent, actionable solutions.*
+> Building practical AI systems that turn unstructured information into useful, structured, and actionable outputs.
