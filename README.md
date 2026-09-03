@@ -2,9 +2,9 @@
 
 # Anuradha Kumari
 
-### Applied AI Engineer | LLMs • RAG • Document AI • FastAPI
+### Building Applied AI Systems | LLMs • RAG • Document AI • FastAPI
 
-Building practical AI systems that turn unstructured information into structured, useful, and actionable outputs.
+I build practical AI applications that connect models with real data, APIs, validation, and user workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuradhanda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradhanda)
 [![GitHub](https://img.shields.io/badge/GitHub-avdhanda44-181717?style=flat&logo=github&logoColor=white)](https://github.com/avdhanda44)
@@ -13,106 +13,124 @@ Building practical AI systems that turn unstructured information into structured
 
 ---
 
-## 👋 About Me
+## About
 
-I'm an **Applied AI Engineer** with an M.S. in Computer Science from the **New York Institute of Technology**.
+I hold an **M.S. in Computer Science from New York Institute of Technology** and am focused on applied AI engineering through hands-on systems involving **LLMs, Retrieval-Augmented Generation, Intelligent Document Processing, NLP, machine learning, and backend AI services**.
 
-I focus on building end-to-end AI applications that combine **LLMs, retrieval, document processing, machine learning, APIs, databases, and user-facing workflows**.
-
-My current engineering interests are centered on:
-
-- 🤖 Large Language Models and AI agents
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 📄 Intelligent Document Processing (IDP) and OCR
-- 🧠 Machine Learning and NLP
-- ⚙️ FastAPI-based AI services
-- 🧩 Production-oriented AI application architecture
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it demonstrates | Core technologies |
-|---|---|---|
-| **[Intelligent Document Processing System](https://github.com/avdhanda44/document-extraction-system)** | End-to-end document AI pipeline for PDFs, images, and DOCX files with OCR, classification, structured extraction, validation, human review, and model evaluation | Python, FastAPI, React, PaddleOCR, EasyOCR, Tesseract, docTR, PyMuPDF |
-| **[LangChain RAG](https://github.com/avdhanda44/langchain-rag)** | RAG progression from foundational retrieval to conversational, agentic, hybrid, corrective, self, graph, and multimodal RAG patterns | Python, LangChain, embeddings, vector retrieval, LLMs |
-| **[LangChain Agent Foundations](https://github.com/avdhanda44/lca-lc-foundations)** | Agents, tools, memory, MCP, runtime context, multi-agent workflows, RAG, SQL integration, and production-oriented agent patterns | Python, LangChain, LangGraph, LangSmith, MCP |
-| **[AI Resume Parser & Job Matcher](https://github.com/avdhanda44/ai-resume-job-matcher)** | Resume parsing, skill extraction, semantic matching, explainable scoring, ATS analysis, API endpoints, and persistence | Python, FastAPI, Streamlit, SQLite, scikit-learn, sentence-transformers |
-| **[AI Job Search & Application Assistant](https://github.com/avdhanda44/ai-job-hunter-assistant)** | Job discovery, resume matching, skill-gap analysis, application-material generation, and application tracking | Python, FastAPI, Streamlit, SQLAlchemy, NLP, APIs |
-| **[AI Interview Preparation Assistant](https://github.com/avdhanda44/ai-interview-preparation-assistant)** | Role-specific interview practice, structured answer evaluation, scoring, progress tracking, and API/UI workflows | Python, FastAPI, Streamlit, SQLite, NLP |
-
----
-
-## 🛠️ Technical Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**AI / Machine Learning**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-20232A?style=flat)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Backend / Applications**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
-
-**Data / Tools**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-## 🔬 What I'm Working On
-
-I'm continuing to deepen my applied AI engineering skills through hands-on work in:
+My work is centered on building complete workflows rather than isolated model demos:
 
 ```text
-LLM Applications
-    ↓
-RAG & Knowledge Retrieval
-    ↓
-AI Agents & Tool Use
-    ↓
-Document AI / OCR
-    ↓
-FastAPI AI Services
-    ↓
-Evaluation, Validation & Production Patterns
+Data / Documents
+      ↓
+Extract or Retrieve
+      ↓
+Model / LLM Processing
+      ↓
+Validation & Evaluation
+      ↓
+FastAPI Services
+      ↓
+User-Facing Applications
 ```
-
-The goal is not just to call models, but to build **complete AI systems around them** — retrieval, processing, APIs, validation, persistence, evaluation, and user workflows.
 
 ---
 
-## 🎯 Areas I'm Interested In
+## Featured Engineering Work
 
-- Applied AI Engineering
-- Generative AI / LLM Engineering
-- Retrieval-Augmented Generation
-- Document AI / OCR / Intelligent Document Processing
-- NLP Engineering
-- AI Backend Engineering
-- Machine Learning Engineering
+### 📄 [Intelligent Document Processing System](https://github.com/avdhanda44/document-extraction-system)
+End-to-end document AI pipeline supporting digital PDFs, scanned PDFs, images, and DOCX files.
+
+**What it demonstrates:** multi-engine OCR, native PDF extraction, document classification, schema-based field extraction, validation, FastAPI, React, human-in-the-loop review, and batch model evaluation.
+
+`Python` · `FastAPI` · `React` · `PaddleOCR` · `EasyOCR` · `Tesseract` · `docTR` · `PyMuPDF`
+
+---
+
+### 🔍 [LangChain RAG](https://github.com/avdhanda44/langchain-rag)
+Hands-on implementation path from foundational retrieval to more advanced RAG patterns.
+
+**What it demonstrates:** document loading, chunking, embeddings, vector retrieval, conversational RAG, agentic RAG, hybrid retrieval, corrective RAG, self-RAG, graph RAG, and multimodal RAG concepts.
+
+`Python` · `LangChain` · `Embeddings` · `Vector Retrieval` · `LLMs`
+
+---
+
+### 🤖 [LangChain Agent Foundations](https://github.com/avdhanda44/lca-lc-foundations)
+Practical exploration of modern LLM application and agent patterns.
+
+**What it demonstrates:** prompts, tools, memory, MCP, runtime context, agent state, multi-agent workflows, RAG, SQL integration, human-in-the-loop behavior, and LangSmith tracing.
+
+`Python` · `LangChain` · `LangGraph` · `LangSmith` · `MCP`
+
+---
+
+### 🎯 [AI Resume Parser & Job Matcher](https://github.com/avdhanda44/ai-resume-job-matcher)
+Application for parsing resumes and comparing them with job descriptions using transparent matching logic.
+
+**What it demonstrates:** PDF/DOCX parsing, skill extraction, semantic similarity, TF-IDF fallback, explainable scoring, ATS-oriented analysis, API design, persistence, and automated tests.
+
+`Python` · `FastAPI` · `Streamlit` · `SQLite` · `scikit-learn` · `sentence-transformers`
+
+---
+
+### 💼 [AI Job Search & Application Assistant](https://github.com/avdhanda44/ai-job-hunter-assistant)
+Job-search workflow combining resume analysis, job discovery, matching, skill-gap analysis, application-material generation, and application tracking.
+
+`Python` · `FastAPI` · `Streamlit` · `SQLAlchemy` · `NLP` · `REST APIs`
+
+---
+
+### 🎤 [AI Interview Preparation Assistant](https://github.com/avdhanda44/ai-interview-preparation-assistant)
+Interview-practice application with role/topic selection, structured answer evaluation, scoring, feedback, session history, and progress tracking.
+
+`Python` · `FastAPI` · `Streamlit` · `SQLite` · `Pydantic`
+
+---
+
+## Core Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" />
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=flat" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+
+**AI / ML:** LLMs, RAG, NLP, OCR, document AI, embeddings, semantic similarity, machine learning  
+**Backend:** FastAPI, REST APIs, SQLAlchemy, Pydantic  
+**Data:** Pandas, NumPy, SQL, SQLite, MySQL  
+**Applications:** React, Streamlit  
+**Engineering:** Git, GitHub, Docker, Jupyter, testing and evaluation
+
+---
+
+## Current Engineering Focus
+
+- Building reliable RAG pipelines and understanding retrieval quality
+- Designing AI agents with tools, state, memory, and human oversight
+- Improving OCR and structured extraction across document formats
+- Building FastAPI services around AI workflows
+- Adding validation, evaluation, persistence, and testing around model outputs
+
+---
+
+## Roles I'm Building Toward
+
+**AI Engineer · Applied AI Engineer · Generative AI / LLM Engineer · NLP Engineer · Document AI / OCR Engineer · Machine Learning Engineer · AI Backend Engineer**
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### Connect
 
-[LinkedIn](https://www.linkedin.com/in/anuradhanda) • [GitHub](https://github.com/avdhanda44)
+[LinkedIn](https://www.linkedin.com/in/anuradhanda) · [GitHub](https://github.com/avdhanda44)
 
 </div>
