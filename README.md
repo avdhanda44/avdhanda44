@@ -2,9 +2,11 @@
 
 # Anuradha Kumari 👋
 
-### Applied AI Engineer | LLMs • RAG • Document AI • FastAPI
+### AI Engineering Portfolio | LLMs • RAG • Document AI • FastAPI
 
-Building practical AI systems with retrieval, document processing, APIs, validation, and user-facing workflows.
+**M.S. Computer Science — New York Institute of Technology**
+
+Building practical AI applications with retrieval, document processing, APIs, validation, and user-facing workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuradhanda-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuradhanda)
 [![GitHub](https://img.shields.io/badge/GitHub-avdhanda44-181717?style=flat&logo=github&logoColor=white)](https://github.com/avdhanda44)
@@ -15,10 +17,10 @@ Building practical AI systems with retrieval, document processing, APIs, validat
 
 | Project | Focus |
 |---|---|
-| 📄 [Intelligent Document Processing System](https://github.com/avdhanda44/document-extraction-system) | OCR, document extraction, FastAPI, React, validation |
+| 📄 [Intelligent Document Processing System](https://github.com/avdhanda44/intelligent-document-processing-system) | OCR, document extraction, FastAPI, React, validation |
 | 🔍 [LangChain RAG](https://github.com/avdhanda44/langchain-rag) | RAG, embeddings, retrieval, advanced RAG patterns |
-| 🤖 [LangChain Agent Foundations](https://github.com/avdhanda44/lca-lc-foundations) | LangChain, LangGraph, agents, tools, memory, MCP |
 | 🎯 [AI Resume & Job Matcher](https://github.com/avdhanda44/ai-resume-job-matcher) | NLP, semantic matching, FastAPI, Streamlit |
+| 💼 [AI Job Hunter Assistant](https://github.com/avdhanda44/ai-job-hunter-assistant) | Job APIs, matching, skill-gap analysis, application tracking |
 
 ## 🛠️ Skills
 
@@ -51,9 +53,3 @@ Building practical AI systems with retrieval, document processing, APIs, validat
 ## 🎯 Focus
 
 **LLMs · RAG · AI Agents · Document AI / OCR · NLP · Machine Learning · AI Backend Engineering**
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/anuradhanda) • [GitHub](https://github.com/avdhanda44)
-
-</div>
