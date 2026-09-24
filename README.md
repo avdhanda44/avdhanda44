@@ -13,14 +13,29 @@ Building practical AI applications with retrieval, document processing, APIs, va
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Focus |
-|---|---|
-| 📄 [Intelligent Document Processing System](https://github.com/avdhanda44/intelligent-document-processing-system) | OCR, document extraction, FastAPI, React, validation |
-| 🔍 [LangChain RAG](https://github.com/avdhanda44/langchain-rag) | RAG, embeddings, retrieval, advanced RAG patterns |
-| 🎯 [AI Resume & Job Matcher](https://github.com/avdhanda44/ai-resume-job-matcher) | NLP, semantic matching, FastAPI, Streamlit |
-| 💼 [AI Job Hunter Assistant](https://github.com/avdhanda44/ai-job-hunter-assistant) | Job APIs, matching, skill-gap analysis, application tracking |
+### Data Analysis & EDA
+
+- [Flight Price Analysis](https://github.com/avdhanda44/flight-price-analysis) — data cleaning, exploratory analysis, and fare prediction.
+- [Business Analytics System](https://github.com/avdhanda44/business-analytics-system) — e-commerce analytics with SQL, PostgreSQL, Python, and pandas.
+
+### Machine Learning
+
+- [Machine Learning Foundations](https://github.com/avdhanda44/machine-learning-foundations) — theory notes and runnable examples for core algorithms.
+- [Ames House Price Prediction](https://github.com/avdhanda44/ames-house-price-prediction) — regression, preprocessing pipelines, and model evaluation.
+- [Bank Term Deposit Prediction](https://github.com/avdhanda44/bank-term-deposit-prediction) — classification, feature selection, and performance comparison.
+
+### NLP & Deep Learning
+
+- [Tweet Content Classification](https://github.com/avdhanda44/-tweet-content-classification) — text preprocessing, TF-IDF, logistic regression, and linear SVM.
+- [Cervical Cell Classification CNN](https://github.com/avdhanda44/cervical-cell-classification-cnn) — a TensorFlow/Keras image-classification baseline.
+
+### Applied AI & Generative AI
+
+- [Intelligent Document Processing System](https://github.com/avdhanda44/intelligent-document-processing-system) — OCR, structured extraction, validation, FastAPI, and human review.
+- [LangChain RAG](https://github.com/avdhanda44/langchain-rag) — embeddings and retrieval-augmented generation.
+- [AI Resume & Job Matcher](https://github.com/avdhanda44/ai-resume-job-matcher) — semantic matching with NLP and an application interface.
 
 ## 🛠️ Skills
 
